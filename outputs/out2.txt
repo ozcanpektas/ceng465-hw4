@@ -1,0 +1,4 @@
+For k = 1 there are 1222 proteins.
+For k = 2 there are 442 proteins.
+For k = 3 there are 217 proteins.
+For k = 4 there are 85 proteins.
